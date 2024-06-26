@@ -15,7 +15,7 @@ Sou apaixonado por tecnologia e estou constantemente aprendendo novas habilidade
 
 ## ⚙️ Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,pycharm,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,pycharm,py)](https://skillicons.dev)<br><br>
 
 ## 🚀 DevOps
 
@@ -26,7 +26,7 @@ Sou apaixonado por tecnologia e estou constantemente aprendendo novas habilidade
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea,replit)](https://skillicons.dev)<br><br>
 
 ## 📊 GitHub Status
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifdev085&repo=github-readme-stats)](https://github.com/davifdev085/github-readme-stats) <br>
 <a href="https://github.com/davifdev085" title="Perfil do Davi Felipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davifdev085&theme=gruvbox&show_icons=true" alt="GitHub stats" />
 </a>
