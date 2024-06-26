@@ -1,13 +1,6 @@
-# Bem-vindo ao meu perfil GitHub!
-
-<p align="center">
-  <a href="l" title="Meu Portfólio">
-    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-  </a>
-</p>
-
-## 👋 Olá, eu sou o Davi Felipe
-
+<div>
+  <h1>Olá, Eu me chamo Davi, sejam Bem-vindos !!</h1>
+</div>
 Sou estudante de Sistemas de Informação na faculdade Unifametro. Este repositório serve como um espaço para compartilhar meus códigos e projetos relacionados aos meus estudos.
 
 ## 🚀 Sobre mim
