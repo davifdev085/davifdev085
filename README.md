@@ -13,6 +13,10 @@
   <span style="display: inline-block; margin: 4px;">
     <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/>
   </span>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <span style="display: inline-block; margin: 4px;">
+    <img height="32" src=" https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  </span>
   <span style="display: inline-block; margin: 4px;">
     <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
   </span>
@@ -82,7 +86,7 @@
 <br/>
 <p>Status</p>
 <a href="https://github.com/davifdev085" title="Perfil do Davi Felipe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davifdev085&theme=dracula&show_icons=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davifdev085&theme=gruvbox&show_icons=true" alt="GitHub stats" />
   <br/>
 </a>
 <a href="https://github.com/davifdev085" title="Perfil do Davi Felipe">
@@ -108,6 +112,11 @@
   <a href="LINK-DO-SEU-INSTAGRAM" title="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="LINK-DO-SEU-STACK-OVERFLOW" title="Instagram">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+ 
   <p>Me siga no meu outro perfil profissional.</p>
   <img src="https://img.shields.io/static/v1?label=Overview&message=davifdev085&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"/>
+  
 </p>
