@@ -84,7 +84,9 @@
 </div>
 
 <br/>
-<p>Status</p>
+
+## GitHub Status
+<div>
 <a href="https://github.com/davifdev085" title="Perfil do Davi Felipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davifdev085&theme=gruvbox&show_icons=true" alt="GitHub stats" />
   <br/>
@@ -93,6 +95,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifdev085&hide=html&layout=compact&theme=gruvbox" alt="GitHub stats" />
   <br/>
 </a>
+<a href="https://github.com/davifdev085" title="Perfil do Davi Felipe">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davifdev085&hide=html&layout=compact&theme=gruvbox" alt="GitHub stats" />
+  <br/>
+</a>
+</div>
 
 ## Onde me encontrar
 
