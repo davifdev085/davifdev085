@@ -66,5 +66,8 @@ Sou apaixonado por tecnologia e estou constantemente aprendendo novas habilidade
 <img src="https://img.shields.io/static/v1?label=Overview&message=davifdev085&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub" />
 
 <p align="left">
+  <a href="l" title="Meu Portfólio"> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=davifdev085&color=006bed" alt="Profile views" />
 </p>
