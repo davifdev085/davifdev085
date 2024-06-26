@@ -39,31 +39,23 @@
 <br/>
 
 ### ⚙️ GitHub Analytics
-<table>
-  <tr>
-    <td>
-      <img title="Perfil do Davi Felipe"
+
+
+<code><img title="Perfil do Davi Felipe"
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=davifdev085&theme=dracula&show_icons=true" alt="GitHub stats"
-      />
-    </td>
-    <td>
-      <img title="Perfil do Davi Felipe"
+      /></code>
+      <code><img title="Perfil do Davi Felipe"
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
-      />
-    </td>
-    <td>
+      /></code>
       <br />
-      <img title="Perfil do Davi Felipe"
+      <code><img title="Perfil do Davi Felipe"
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=davifdev085&theme=dark&hide_border=false"
         alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+      /></code>
 
 ## Onde me encontrar
 
