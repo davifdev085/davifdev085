@@ -47,7 +47,6 @@
 <a href="https://github.com/davifdev085" title="Perfil do Davi Felipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davifdev085&theme=dracula&show_icons=true" />
   <br/>
-  <p>Me siga no meu outro perfil profissional</p><img src="https://img.shields.io/static/v1?label=Overview&message=davifdev085&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 </a>
 
 ## Onde me encontrar
@@ -62,5 +61,7 @@
   <a href="#" title="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
   <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/>
+  </a>
+  <p>Me siga no meu outro perfil profissional. </p><img src="https://img.shields.io/static/v1?label=Overview&message=davifdev085&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 </p>
