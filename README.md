@@ -30,11 +30,23 @@
 
 ## Ferramentas de desenvolvimento
 
-<p><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code" /></p>
-<p><img src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255" alt="Eclipse" /></p>
-<p><img src="https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC" alt="Trello" /></p>
-<p><img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC" alt="Figma" /></p>
-<p><img src="https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC" alt="Adobe XD" /></p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <span style="display: inline-block; margin: 4px;">
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code" />
+  </span>
+  <span style="display: inline-block; margin: 4px;">
+    <img src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255" alt="Eclipse" />
+  </span>
+  <span style="display: inline-block; margin: 4px;">
+    <img src="https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC" alt="Trello" />
+  </span>
+  <span style="display: inline-block; margin: 4px;">
+    <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC" alt="Figma" />
+  </span>
+  <span style="display: inline-block; margin: 4px;">
+    <img src="https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC" alt="Adobe XD" />
+  </span>
+</div>
 
 <br/>
 
