@@ -15,7 +15,7 @@ Sou apaixonado por tecnologia e estou constantemente aprendendo novas habilidade
 
 ## ⚙️ Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,pycharm,py)](https://skillicons.dev)
 
 ## 🚀 DevOps
 
@@ -23,7 +23,7 @@ Sou apaixonado por tecnologia e estou constantemente aprendendo novas habilidade
 
 ## 🧰 Ferramentas de Desenvolvimento
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,mysql,idea,replit)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea,replit)](https://skillicons.dev)<br><br>
 
 ## 📊 GitHub Status
 
@@ -42,10 +42,10 @@ Sou apaixonado por tecnologia e estou constantemente aprendendo novas habilidade
 ## 🔗 Onde me encontrar
 
 <p align="left">
-  <a href="LINK-DO-SEU-GMAIL" title="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="LINK-DO-SEU-LINKEDIN" title="LinkedIn">
+  <a href="mailto:davifelipedev@gmail.com?subject=Vim%20pelo%20seu%20GitHub!!&body=Estou%20entrando%20em%20contato%20com%20você.">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+  <a href="" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="API-DO-SEU-WHATSAPP" title="WhatsApp">
@@ -63,8 +63,9 @@ Sou apaixonado por tecnologia e estou constantemente aprendendo novas habilidade
 </p>
 
 <p>Siga-me no meu outro perfil profissional.</p>
-<img src="https://img.shields.io/static/v1?label=Overview&message=davifdev085&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub" />
-
+ <a href="LINK-DO-SEU-GMAIL" title="GitHub perfil pessoal.">
+  <img src="https://img.shields.io/static/v1?label=Overview&message=davifdev085&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub" />
+ </a>
 <p align="left">
   <a href="l" title="Meu Portfólio"> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 </p>
