@@ -80,9 +80,13 @@
 </div>
 
 <br/>
-
+<p>Status</p>
 <a href="https://github.com/davifdev085" title="Perfil do Davi Felipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davifdev085&theme=dracula&show_icons=true" alt="GitHub stats" />
+  <br/>
+</a>
+<a href="https://github.com/davifdev085" title="Perfil do Davi Felipe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifdev085&hide=html&layout=compact&theme=gruvbox" alt="GitHub stats" />
   <br/>
 </a>
 
