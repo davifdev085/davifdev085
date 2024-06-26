@@ -44,9 +44,9 @@
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 <br/>
-
 <a href="https://github.com/davifdev085" title="Perfil do Davi Felipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davifdev085&theme=dracula&show_icons=true" />
+  <img src="https://img.shields.io/static/v1?label=Overview&message=davifdev085&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 </a>
 
 ## Onde me encontrar
