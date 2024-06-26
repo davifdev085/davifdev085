@@ -9,24 +9,55 @@
 
 ## Minhas Skills
 
-<p><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></p>
-<p><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></p>
-<p><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></p>
-<p><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></p>
-<p><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"/></p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <span style="display: inline-block; margin: 4px;">
+    <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/>
+  </span>
+  <span style="display: inline-block; margin: 4px;">
+    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
+  </span>
+  <span style="display: inline-block; margin: 4px;">
+    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
+  </span>
+  <span style="display: inline-block; margin: 4px;">
+    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
+  </span>
+  <span style="display: inline-block; margin: 4px;">
+    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"/>
+  </span>
+</div>
 
 ## Utilidades
 
-<p><img src="https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia" alt="Insomnia" /></p>
-<p><img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" alt="Postman" /></p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <span style="display: inline-block; margin: 4px;">
+    <img src="https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia" alt="Insomnia" />
+  </span>
+  <span style="display: inline-block; margin: 4px;">
+    <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" alt="Postman" />
+  </span>
+</div>
 
 ## DevOps
 
-<p><img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" /></p>
-<p><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub" /></p>
-<p><img src="https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket" alt="Bitbucket" /></p>
-<p><img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" alt="Docker" /></p>
-<p><img src="https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis" alt="Travis" /></p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <span style="display: inline-block; margin: 4px;">
+    <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" />
+  </span>
+  <span style="display: inline-block; margin: 4px;">
+    <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub" />
+  </span>
+  <span style="display: inline-block; margin: 4px;">
+    <img src="https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket" alt="Bitbucket" />
+  </span>
+  <span style="display: inline-block; margin: 4px;">
+    <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" alt="Docker" />
+  </span>
+  <span style="display: inline-block; margin: 4px;">
+    <img src="https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis" alt="Travis" />
+  </span>
+</div>
+
 
 ## Ferramentas de desenvolvimento
 
