@@ -16,9 +16,9 @@ Sou apaixonado por tecnologia e estou constantemente aprendendo novas habilidade
 
 - **Formação:** Estou cursando **Sistemas de Informação** na **Unifametro**.
 - **Interesses:** Tenho grande interesse em desenvolvimento web e mobile, especialmente nas área back-end. Gosto de explorar novas tecnologias e frameworks para melhorar minhas habilidades.
-- **Experiência:** Tenho experiência prática em projetos acadêmicos e pessoais, onde apliquei meus conhecimentos em linguagens de programação como C, Java, JavaScript, e Python. Além disso, estou familiarizado com bancos de dados como PostgreSQL e ferramentas de desenvolvimento como Git e Docker, .
-- **Objetivos:** Meu objetivo é me tornar um desenvolvedor full-stack, capaz de criar aplicativos completos desde a interface de usuário até a lógica de servidor e gerenciamento de dados. Estou sempre buscando oportunidades para colaborar em projetos desafiadores e aprender com outros profissionais da área.
-- **Hobbies:** Fora do mundo da programação, gosto de ler livros sobre tecnologia, jogar videogames e participar de comunidades online de desenvolvedores para compartilhar conhecimento e aprender com os outros.
+- **Experiência:** Tenho experiência prática em projetos acadêmicos e pessoais, onde apliquei meus conhecimentos em linguagens de programação como C, Java, JavaScript, e Python. Além disso, estou familiarizado com bancos de dados como PostgreSQL e ferramentas de desenvolvimento como Git e Docker, aws.
+- **Objetivos:** Meu objetivo é me tornar um desenvolvedor full-stack, capaz de criar aplicativos completos desde a interface de usuário até a lógica de servidor e gerenciamento de dados. Estou sempre buscando oportunidades para colaborar em projetos e aprender com outros profissionais da área.
+- **Hobbies:** Fora do mundo da programação, gosto de ler livros sobre tecnologia, jogar videogames e participar de comunidades online de desenvolvedores para compartilhar conhecimento e aprender com os outros\ gosto de esportes, e de escutar música.
 
 ## ⚙️ Minhas Skills
 
