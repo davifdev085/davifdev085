@@ -1,13 +1,21 @@
-<p><img src="https://komarev.com/ghpvc/?username=davifdev085&color=006bed" alt="Profile views" /></p>
+<p>
+   <a href="l" title="Meu Portifólio">
+    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  </a>
+</p>
+<div>
+  <h1>
+    Olá 👋, Sejam-bem vindos, Eu me chamo Davi.
+  </h1>
+</div>
 
-## Sobre mim
+## 🚀 Sobre mim
+<div>
+  <p>Sou estudante de sistemas de informação pela faculdade Unifametro e este repositório é apenas para
+  enviar meus códigos referente aos estudos.</p>
+</div>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalha} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
-
-## Minhas Skills
+## Minhas Skills.
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <span style="display: inline-block; margin: 4px;">
@@ -101,7 +109,7 @@
 </a>
 </div>
 
-## Onde me encontrar
+## 🔗 Onde me encontrar
 
 <p align="left">
   <a href="LINK-DO-SEU-GMAIL" title="Gmail">
@@ -125,5 +133,7 @@
  
   <p>Me siga no meu outro perfil profissional.</p>
   <img src="https://img.shields.io/static/v1?label=Overview&message=davifdev085&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"/>
-  
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=davifdev085&color=006bed" alt="Profile views" align="left" margin: 4px; />
+  </div>
 </p>
