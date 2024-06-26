@@ -1,4 +1,4 @@
-<code><img src="https://komarev.com/ghpvc/?username=davifdev085&color=006bed" alt="Profile views" /></code>
+<p><img src="https://komarev.com/ghpvc/?username=davifdev085&color=006bed" alt="Profile views" /></p>
 
 ## Sobre mim
 
@@ -9,49 +9,39 @@
 
 ## Minhas Skills
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+<p><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></p>
+<p><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></p>
+<p><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></p>
+<p><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></p>
+<p><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"/></p>
 
 ## Utilidades
 
-<code><img src="https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia" alt="Insomnia" /></code>
-<code><img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" alt="Postman" /></code>
+<p><img src="https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia" alt="Insomnia" /></p>
+<p><img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" alt="Postman" /></p>
 
 ## DevOps
 
-<code><img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" /></code>
-<code><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub" /></code>
-<code><img src="https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket" alt="Bitbucket" /></code>
-<code><img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" alt="Docker" /></code>
-<code><img src="https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis" alt="Travis" /></code>
+<p><img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" /></p>
+<p><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub" /></p>
+<p><img src="https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket" alt="Bitbucket" /></p>
+<p><img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" alt="Docker" /></p>
+<p><img src="https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis" alt="Travis" /></p>
 
 ## Ferramentas de desenvolvimento
-<p>
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code" />
-<img src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255" alt="Eclipse" />
-<img src="https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC" alt="Trello" />
-<img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC" alt="Figma" /></code>
-<img src="https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC" alt="Adobe XD" />
-</p>
+
+<p><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code" /></p>
+<p><img src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255" alt="Eclipse" /></p>
+<p><img src="https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC" alt="Trello" /></p>
+<p><img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC" alt="Figma" /></p>
+<p><img src="https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC" alt="Adobe XD" /></p>
+
 <br/>
 
-### ⚙️ GitHub Analytics
-
-<code><img title="Perfil do Davi Felipe"
-        src="https://github-readme-stats.vercel.app/api?username=davifdev085&theme=dracula&show_icons=true" alt="GitHub stats"
-      /></code>
-      <code><img title="Perfil do Davi Felipe"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      /></code>
-      <br/>
-      <code><img title="Perfil do Davi Felipe"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=davifdev085&theme=dark&hide_border=false"
-        alt="Github Stats"
-      /></code>
+<a href="https://github.com/davifdev085" title="Perfil do Davi Felipe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davifdev085&theme=dracula&show_icons=true" alt="GitHub stats" />
+  <br/>
+</a>
 
 ## Onde me encontrar
 
