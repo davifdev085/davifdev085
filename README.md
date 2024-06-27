@@ -1,5 +1,5 @@
 <div>
-  <h1>Olá, Eu me chamo Davi, sejam Bem-vindos !!</h1>
+  <h1>Olá, Seja Bem-vindo !</h1>
 </div>
 Sou estudante de Sistemas de Informação na faculdade Unifametro. Este repositório serve como um espaço para compartilhar meus códigos e projetos relacionados aos meus estudos.
 
